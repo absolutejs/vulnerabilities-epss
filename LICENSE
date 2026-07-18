@@ -37,29 +37,55 @@ any of the following:
    the original project repository
    (https://github.com/absolutejs/vulnerabilities-epss).
 
-For clarity, permitted uses include vulnerability management for your own
-applications and SaaS products, use as a dependency when vulnerability
-management is not the primary product, client consulting, and attributed
-internal forks. The restrictions above continue to apply.
+For clarity, the following uses are expressly permitted:
+
+- Using the Licensed Work to scan, inventory, gate, remediate, or report on
+  vulnerabilities in your own applications, websites, internal tools, or SaaS
+  products, so long as vulnerability management itself is not the primary
+  product you are selling.
+- Using the Licensed Work as a dependency in commercial software you build and
+  sell, as long as that software is not a competing hosted security service of
+  the kind described in clause 1.
+- Providing consulting, development, or professional services to clients using
+  the Licensed Work.
+- Forking and modifying the Licensed Work for your own internal use, provided
+  attribution is maintained.
 
 ### Change Date and Change License
 
-On the Change Date, the Licensed Work will be made available under the Change
-License. Until then, the Business Source License 1.1 terms apply.
+On the Change Date specified above, or on such other date as the Licensor may
+specify by written notice, the Licensed Work will be made available under the
+Change License (Apache License, Version 2.0). Until the Change Date, the terms
+of this Business Source License 1.1 apply.
 
-### Trademark and Notices
+### Trademark
 
-This license grants no rights to AbsoluteJS names or trademarks. You must not
-remove licensing, copyright, attribution, or other notices.
+This license does not grant you any rights to use the "AbsoluteJS" or
+"@absolutejs" name, logo, or any related trademarks. Forks and derivative works
+must not be named or branded in a manner that suggests endorsement by or
+affiliation with AbsoluteJS or the Licensor.
+
+### Notices
+
+You must not remove or obscure any licensing, copyright, or other notices
+included in the Licensed Work.
 
 ### No Warranty
 
-THE LICENSED WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. IN NO
-EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY
-ARISING FROM THE LICENSED WORK OR ITS USE.
+THE LICENSED WORK IS PROVIDED "AS IS". THE LICENSOR HEREBY DISCLAIMS ALL
+WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO
+EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR
+IN CONNECTION WITH THE LICENSED WORK OR THE USE OR OTHER DEALINGS IN THE
+LICENSED WORK.
+
+---
 
 ## Contact
 
-- Alex Kahn
+For commercial licensing inquiries or additional permissions, contact:
+
+- **Alex Kahn**
 - alexkahndev@gmail.com
 - alexkahndev.github.io

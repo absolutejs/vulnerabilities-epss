@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.1 - 2026-07-18
+
+- Align the source-available license text with the AbsoluteJS vulnerability
+  package license structure.
+
 ## 0.1.0 - 2026-07-18
 
 - Add official FIRST EPSS API ingestion.

@@ -1,6 +1,6 @@
 {
   "name": "@absolutejs/vulnerabilities-epss",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "FIRST EPSS probability and percentile ingestion for AbsoluteJS vulnerability prioritization.",
   "type": "module",
   "license": "BSL-1.1",
