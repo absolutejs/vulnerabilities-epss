@@ -1,0 +1,65 @@
+# Business Source License 1.1
+
+**Licensor:** Alex Kahn
+
+**Licensed Work:** @absolutejs/vulnerabilities-epss (https://github.com/absolutejs/vulnerabilities-epss)
+
+**Change Date:** July 18, 2030
+
+**Change License:** Apache License, Version 2.0
+
+---
+
+## Terms
+
+The Licensor hereby grants you the right to copy, modify, create derivative
+works, redistribute, and make non-production use of the Licensed Work. The
+Licensor may make an Additional Use Grant, permitting limited production use.
+
+### Additional Use Grant
+
+You may use the Licensed Work in production, provided your use does not include
+any of the following:
+
+1. **Offering a Competing Service.** You may not offer the Licensed Work, or
+   any derivative or substantial portion of it, to third parties as a hosted or
+   managed vulnerability-management, exposure-management, container-security,
+   cloud-security-posture-management, or attack-surface-management service.
+   This includes any product whose primary value to its users is the
+   functionality the Licensed Work provides.
+
+2. **Resale or Redistribution as a Standalone Product.** You may not sell,
+   license, or distribute the Licensed Work, or any derivative or fork of it,
+   as a standalone commercial product.
+
+3. **Removal of Attribution.** Any derivative work, fork, or redistribution of
+   the Licensed Work must prominently credit AbsoluteJS and include a link to
+   the original project repository
+   (https://github.com/absolutejs/vulnerabilities-epss).
+
+For clarity, permitted uses include vulnerability management for your own
+applications and SaaS products, use as a dependency when vulnerability
+management is not the primary product, client consulting, and attributed
+internal forks. The restrictions above continue to apply.
+
+### Change Date and Change License
+
+On the Change Date, the Licensed Work will be made available under the Change
+License. Until then, the Business Source License 1.1 terms apply.
+
+### Trademark and Notices
+
+This license grants no rights to AbsoluteJS names or trademarks. You must not
+remove licensing, copyright, attribution, or other notices.
+
+### No Warranty
+
+THE LICENSED WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. IN NO
+EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY
+ARISING FROM THE LICENSED WORK OR ITS USE.
+
+## Contact
+
+- Alex Kahn
+- alexkahndev@gmail.com
+- alexkahndev.github.io
