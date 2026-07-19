@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.5 - 2026-07-18
+
+- Verify and declare compatibility with the vulnerability alert policy
+  contracts in `@absolutejs/vulnerabilities@0.10.0`.
+
 ## 0.1.2 - 2026-07-18
 
 - Upgrade to the durable persistence contracts in
